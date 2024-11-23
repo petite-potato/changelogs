@@ -1,1 +1,2 @@
-jug jug jug
+added angle enhancer S-Check (almost impossible to find a bug on)
+more supported exploits for bypass (yay)
