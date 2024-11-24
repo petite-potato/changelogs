@@ -1,1 +1,1 @@
-updated ball trail, lmk what yall think about it
+fixed network tampering bans (i hope)
