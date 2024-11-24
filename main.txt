@@ -1,2 +1,1 @@
-added angle enhancer S-Check (almost impossible to find a bug on)
-more supported exploits for bypass (yay)
+updated ball trail, lmk what yall think about it
