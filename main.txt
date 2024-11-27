@@ -1,5 +1,5 @@
 implemented aimbot functions for yuna api
-added some new common functions.
+added some new common functions (run_each_frame, wait_frames, controllerdata, get_status_string, is_friend).
 fixed aimbot leads being marked as "nil Lead"
 
 code example on how to make a auto fade:
