@@ -2,6 +2,10 @@ implemented aimbot functions for yuna api
 added some new common functions (run_each_frame, wait_frames, controllerdata, get_status_string, is_friend).
 fixed aimbot leads being marked as "nil Lead"
 
+- added lua file manager in settings tab
+  - to have your lua scripts show up in the lua manager then add your .lua file to Yuna\Football Fusion 2\API Scripts
+  - i have to simplify this for slow people eventually :pensive:
+
 code example on how to make a auto fade:
 ```lua
   aimbot.register_mode("Fade", 0) -- Mode Name, Lead
