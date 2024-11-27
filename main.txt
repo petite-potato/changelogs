@@ -1,1 +1,1 @@
-fixed network tampering bans (i hope)
+added yuna api view docs here https://yuna-docs.gitbook.io/yuna-docs-api/documentation/documentation
