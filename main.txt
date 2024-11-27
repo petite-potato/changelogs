@@ -1,6 +1,6 @@
 implemented aimbot functions for yuna api
 added some new common functions.
-
+fixed aimbot leads being marked as "nil Lead"
 
 code example on how to make a auto fade:
 ```lua
