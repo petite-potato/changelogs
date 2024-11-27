@@ -1,2 +1,18 @@
-added yuna api view docs here https://yuna-docs.gitbook.io/yuna-docs-api/documentation/documentation
-api is not on solara yet, please try out the api and view the docs and let me know if you have any issues
+implemented aimbot functions for yuna api
+added some new common functions.
+
+
+code example on how to make a auto fade:
+```lua
+  aimbot.register_mode("Fade", 0) -- Mode Name, Lead
+
+  common.run_each_frame(function()
+      if aimbot.get_mode() == "Fade" then
+          aimbot.set_angle(75)
+      else
+          -- restore the old angle, too lazy to in this code snippet
+      end
+  end)
+```
+
+docs link: https://yuna-docs.gitbook.io/yuna-docs
