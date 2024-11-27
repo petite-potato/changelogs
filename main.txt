@@ -5,6 +5,10 @@ fixed aimbot leads being marked as "nil Lead"
 - added lua file manager in settings tab
   - to have your lua scripts show up in the lua manager then add your .lua file to Yuna\Football Fusion 2\API Scripts
   - i have to simplify this for slow people eventually :pensive:
+  - doesn't show loaded scripts yet
+  - cant delete scripts yet
+  - cant unload scripts yet
+
 
 code example on how to make a auto fade:
 ```lua
