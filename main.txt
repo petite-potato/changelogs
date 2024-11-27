@@ -1,1 +1,2 @@
 added yuna api view docs here https://yuna-docs.gitbook.io/yuna-docs-api/documentation/documentation
+api is not on solara yet, please try out the api and view the docs and let me know if you have any issues
